@@ -17,26 +17,29 @@ Serial No. | Problem name
 8 | Integers Come In All Size
 9 | itertools.product() 
 10 | Lists 
-11 | Loops 
-12 | Mutations 
-13 | Nested Lists 
-14 | Polar Coordinates 
-15 | Power - Mod Power
-16 | Print Function
-17 | Python Division
-18 | Python If-Else
-19 | Say Hello, World! With Python
-20 | Shape and Reshape
-21 | String Split and Join
-22 | String Validators 
-23 | sWAP cASE
-24 | Text Alignment
-25 | Text Wrap
-26 | Triangle Quest
-27 | Tuples 
-28 | What's Your Name
-29 | Write a function
-30 | Zeros and Ones
+11 | Loops
+12 | Mod Divmod
+13 | Mutations 
+14 | Nested Lists 
+15 | Polar Coordinates 
+16 | Power - Mod Power
+17 | Print Function
+18 | Python Division
+19 | Python If-Else
+20 | Say Hello, World! With Python
+21 | Shape and Reshape
+22 | String Split and Join
+23 | String Validators 
+24 | sWAP cASE
+25 | Text Alignment
+26 | Text Wrap
+27 | Transpose and Flatten
+28 | Triangle Quest
+29 | Tuples 
+30 | Validating phone numbers
+31 | What's Your Name
+32 | Write a function
+33 | Zeros and Ones
 
 ## Technology_Used
 
